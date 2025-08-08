@@ -3,13 +3,13 @@
 A customisable AutoClicker with randomness of timing, breaks and click position.
 If you choose to use this to cheat at videogames, do this at your own risk ;).
 
-
+# Getting co-ordinates
 Getting the right co-ordinates:
 Run the co-ordinates script.
 It waits 5 seconds before printing out the mouse co-ordinates wherever you are running it.
 use this to find your base X and Y for the below.
 
-
+# Customising the Autoclicker / main.py
 There are some variables to change:
 
 1) Set your base x and y co-ordinates. This is where you want this clicker to click.
